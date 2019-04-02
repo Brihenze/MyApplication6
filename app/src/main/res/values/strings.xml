@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="numerical_reasoning_knowing_how_to_read_data_and_interpret_statistics">Numerical Reasoning - Knowing how to read data and interpret statistics.</string>
+    <string name="negotiating_bargaining_with_others_to_solve_a_problem_or_reach_an_agreement">Negotiating - bargaining with others to solve a problem or reach an agreement.</string>
+    <string name="public_speaking_addressing_or_delivering_a_speech_to_a_group_or_audience">Public Speaking- addressing or delivering a speech to a group or audience.</string>
+    <string name="reading_following_written_instructions_on_what_to_do_or_how_to_operate_a_piece_of_equipment">Reading - Following written instructions on what to do or how to operate a piece of equipment.</string>
+    <string name="listening_paying_attention_to_what_the_other_person_is_saying_and_responding_appropriately">Listening - paying attention to what the other person is saying and responding appropriately.</string>
+    <string name="skill_test_select_15_most_applicable">Skill Test Select 15 Most Applicable.</string>
+    <string name="communication_being_able_to_talk_to_strangers_in_ordinary_conversational_settings">Communication - being able to talk to strangers in ordinary conversational settings.</string>
+    <string name="explaining_speaking_carefully_and_clearly_so_people_can_understand_you_quickly_and_easily">Explaining - speaking carefully and clearly so people can understand you quickly and easily.</string>
+    <string name="next_page">Next Page</string>
+    <string name="measuring_using_equipment_to_determine_surface_area_and_volume_measurements">Measuring -Using equipment to determine surface area and volume measurements.</string>
+    <string name="questioning_asking_the_right_questions_to_get_useful_information_from_others_or_to_help_them_gain_insight">Questioning - asking the right questions to get useful information from others or to help them gain insight.</string>
+    <string name="budgeting_deciding_what_to_buy_and_how_much_to_spend_to_get_work_done_at_the_lowest_cost">Budgeting- Deciding what to buy and how much to spend,to get work done at the lowest cost.</string>
+    <string name="calculation_using_basic_arithmetic_skills_including_adding_subtracting_multiplication_and_division">Calculation -Using basic arithmetic skills including adding, subtracting, multiplication and division</string>
+    <string name="writing_being_able_to_express_yourself_or_explain_things_in_writing">Writing - Being able to express yourself or explain things in writing.</string>
+</resources>
